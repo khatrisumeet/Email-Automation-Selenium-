@@ -1,0 +1,11 @@
+Follow these steps
+1. run the project on django server using "python manage.py runserver"
+
+2. on web-browser search bar type : "http://localhost:8000/run-google-form/"
+   to fill up the form 
+
+3. on web-browser search bar type : "http://localhost:8000/send-email/"
+   to send a email
+
+
+
